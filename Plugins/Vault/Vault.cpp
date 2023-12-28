@@ -29,7 +29,7 @@
 #include "API/CPathfindInformation.hpp"
 #include "API/CFactionManager.hpp"
 #include "API/CNWSFaction.hpp"
-#include "API/NWVMachineUtils.hpp"
+#include "API/NWSVMachineUtils.hpp"
 
 #include <sqlite_modern_cpp.h>
 
